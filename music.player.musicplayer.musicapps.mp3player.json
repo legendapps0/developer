@@ -1,0 +1,35 @@
+{
+  "info": [
+    {
+      "package_name": "music.player.musicplayer.musicapps.mp3player",
+      "active_ad": "1",
+      "random_no": "1",
+      "fb_advance_native_skippos": "9",
+      "firstpage_fb_duration": "0",
+      "IsAdshowOneTime": "true",
+	  "google_native_appid": "",
+      "google_ad_interestial": "",
+      "google_banner": "",
+      "fb_ad_interestial": "",
+      "fb_ad_interestial_duration": "800",
+      "fb_advance_native_adid": "",
+      "fb_nativebanner": "",
+      "is_fb_bannerad_show": "2",
+      "active_banner_ad": "1",
+      "is_update": "false",
+      "is_forcefully": "false",
+      "is_live": "true",
+      "new_url": "",
+      "version_code": "1",
+      "new_version_code": "1",
+      "message": "New Version Available.",
+      "custom_adurl": "",
+      "customad_pkg": "",
+      "cust_isshow": "false",
+      "notiappname": "BoyzPix - Photo Editor and Beard Maker",
+      "notidesc": "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
+      "notiurl": "",
+      "notipkg": "boyzpixphotoeditor.photoeditor.boysphotoeditor"
+    }
+  ]
+}
